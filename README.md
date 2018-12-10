@@ -12,13 +12,13 @@ To install the script locally use:
 To install the program run
 
 ```
-$ pip install epurifier
+$ pip install todx
 ```
 
 If you are using Ubuntu run this instead:
 
 ```
-$ pip3 install epurifier
+$ pip3 install todx
 ```
 
 If the installation of pandas fails due to user permissions, you can either use sudo or install using the `--user` parameter.
